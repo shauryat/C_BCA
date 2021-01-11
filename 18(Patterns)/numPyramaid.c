@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+// 1
+// 12
+// 123
+// 1234
+
 int main() {
     int row;
     printf("Enter Row : ");scanf("%d", &row);

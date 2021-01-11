@@ -1,4 +1,8 @@
 #include<stdio.h>
+// A 
+// AB 
+// ABC 
+// ABDC
  
 int main() {
     int n;
